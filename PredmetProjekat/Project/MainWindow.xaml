@@ -1,0 +1,143 @@
+﻿<Window x:Class="Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project"
+        mc:Ignorable="d"
+        Title="MainWindow" Width="1280" Height="720" WindowState="Maximized" Background="GhostWhite">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="150"/>
+        </Grid.ColumnDefinitions>
+
+        <!--Buttons-->
+        <Grid x:Name="buttonGrid" Grid.Column="1" Grid.Row="0" Grid.RowSpan="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!--Undo-->
+            <Button Content="Undo"
+                    x:Name="btnUndo"
+                    Grid.Row="0"
+                    FontSize="18" FontWeight="SemiBold"
+                    Background="WhiteSmoke"
+                    Click="Undo_Click"/>
+
+            <!--Redo-->
+            <Button Content="Redo"
+                    x:Name="btnRedo"
+                    Grid.Row="1"
+                    FontSize="18" FontWeight="SemiBold"
+                    Background="WhiteSmoke"
+                    Click="Redo_Click"/>
+
+            <!--Clear-->
+            <Button Content="Clear"
+                    x:Name="btnClear"
+                    Grid.Row="2"
+                    FontSize="18" FontWeight="SemiBold"
+                    Background="WhiteSmoke"
+                    Click="Clear_Click"/>
+
+            <!--Load Model-->
+            <Button Content="Render Model"
+                    x:Name="LoadModel"
+                    Grid.Row="3"
+                    FontSize="18" FontWeight="SemiBold"
+                    Background="WhiteSmoke"
+                    Click="LoadModel_Click"/>
+
+            <!--Load Model W/o Nodes-->
+            <Button Content="Render Model&#x0a;without Nodes"
+                    x:Name="LoadModelNoNodes"
+                    Grid.Row="4"
+                    FontSize="18" FontWeight="SemiBold"
+                    Background="WhiteSmoke"
+                    Click="LoadModelNoNodes_Click"/>
+
+            <!--Ellipse-->
+            <Button Content="Add Ellipse"
+                    x:Name="btnEllipse"
+                    Grid.Row="5"
+                    FontSize="18" FontWeight="SemiBold"
+                    Background="WhiteSmoke"
+                    Click="Ellipse_Click"/>
+
+            <!--Polygon-->
+            <Button Content="Add Polygon"
+                    x:Name="btnPolygon"
+                    Grid.Row="6"
+                    FontSize="18" FontWeight="SemiBold"
+                    Background="WhiteSmoke"
+                    Click="Polygon_Click"/>
+
+            <!--Text-->
+            <Button Content="Add Text"
+                    x:Name="btnText"
+                    Grid.Row="7"
+                    FontSize="18" FontWeight="SemiBold"
+                    Background="WhiteSmoke"
+                    Click="Text_Click"/>
+
+            <!--Load Model-->
+            <Button Content="Dimensions 200x200"
+                    x:Name="MapSize"
+                    Grid.Row="8"
+                    VerticalContentAlignment="Center"
+                    HorizontalContentAlignment="Center"
+                    FontSize="13" FontWeight="SemiBold"
+                    Background="WhiteSmoke"
+                    Click="MapSize_Click"/>
+        </Grid>
+
+        <!--Title-->
+        <Label Content="PREDMET PROJEKAT - GRAFIKA - BFS"
+               HorizontalAlignment="Center" VerticalAlignment="Center"
+               FontSize="25" FontWeight="SemiBold"/>
+        
+        <!--Separator-->
+        <Border Grid.Row="1" BorderThickness="0,1,0,0" BorderBrush="Black"/>
+
+        <!--Network Graph-->
+        <DockPanel Grid.Row="1">
+            <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+                <Canvas x:Name="MainCanvas" DockPanel.Dock="Bottom" Height="400" Width="400" Focusable="True" Background="LightGray">
+                    <Canvas.LayoutTransform>
+                        <ScaleTransform x:Name="ScaleTransform" 
+                                    ScaleX="{Binding ElementName=Zoom, Path=Value}"
+                                    ScaleY="{Binding ElementName=Zoom, Path=Value}"/>
+                    </Canvas.LayoutTransform>
+                </Canvas>
+            </ScrollViewer>
+        </DockPanel>
+
+        <!--Separator-->
+        <Border Grid.Row="2" BorderThickness="0,1,0,0" BorderBrush="Black"/>
+
+        <!--Slider-->
+        <Slider x:Name="Zoom" Orientation="Horizontal"
+                Minimum="0.1" Maximum="10" Value="1"
+                DockPanel.Dock="Top"
+                VerticalAlignment="Center"
+                Grid.Row="2" Grid.Column="0">
+        </Slider>
+    </Grid>
+
+</Window>

@@ -1,0 +1,203 @@
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\Project.exe.config
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\Project.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\Project.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\AddText.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\DrawEllipse.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\DrawPolygon.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\Project_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\Project_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\AddText.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\DrawEllipse.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\DrawPolygon.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\Project.g.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\Project.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1\Project\obj\Debug\Project.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\Styles\Styles.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\Project_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\Project_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\Project.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\Project.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\Project.exe.config
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\Project.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\Project.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\Project.g.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\DrawEllipseWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\DrawPolygonWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\DrawEllipseWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\DrawPolygonWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\AddTextWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 3\Project\obj\Debug\AddTextWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\Project.exe.config
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\Project.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\Project.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\AddTextWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\DrawEllipseWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\DrawPolygonWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\Project_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\Project_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\AddTextWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\DrawEllipseWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\DrawPolygonWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\Project.g.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\Project.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\BFS\PZ1 - 4\Project\obj\Debug\Project.pdb
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\Project.exe.config
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\Project.exe
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\Project.pdb
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\AddTextWindow.g.cs
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\DrawEllipseWindow.g.cs
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\DrawPolygonWindow.g.cs
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\App.g.cs
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\AddTextWindow.baml
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\DrawEllipseWindow.baml
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\DrawPolygonWindow.baml
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\Project.g.resources
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\Project.exe
+C:\Users\User\Downloads\PZ1 - 4\PZ1 - 4\Project\obj\Debug\Project.pdb
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\Project.exe.config
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\Project.exe
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\Project.pdb
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\AddTextWindow.g.cs
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\DrawEllipseWindow.g.cs
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\DrawPolygonWindow.g.cs
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\App.g.cs
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\AddTextWindow.baml
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\DrawEllipseWindow.baml
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\DrawPolygonWindow.baml
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\Project.g.resources
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\Project.exe
+C:\Users\User\Desktop\PredmetProjekat\PredmetProjekat\Project\obj\Debug\Project.pdb
